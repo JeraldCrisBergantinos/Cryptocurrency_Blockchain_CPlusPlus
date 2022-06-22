@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655882185 source:d:\githubrepo\cryptocurrency_blockchain_cplusplus\cryptocurrency_blockchain_cplusplus\main.cpp
+	<iostream>
+	<ctime>
+	<vector>
+
